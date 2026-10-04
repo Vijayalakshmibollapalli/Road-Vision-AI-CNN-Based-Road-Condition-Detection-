@@ -176,7 +176,7 @@ The final convolutional block of VGG16 was unfrozen and trained with a small lea
 
 ---
 
-## 🖼️ Image Prediction
+## Image Prediction
 
 The final VGG16 model can classify a new road image as:
 
